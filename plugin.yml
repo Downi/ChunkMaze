@@ -1,0 +1,12 @@
+name: ChunkMaze
+main: de.dauni.chunkmaze.ChunkMaze
+version: 0.1.0
+authors:
+  - Daunilein
+description: Simple Maze Plugin for Chunkbyte.com
+softdepend: [Essentials]
+load: POSTWORLD
+commands:
+  maze:
+    usage: /<command>
+    description: N/A
